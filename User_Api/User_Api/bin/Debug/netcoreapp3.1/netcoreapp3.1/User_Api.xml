@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>User_Api</name>
+    </assembly>
+    <members>
+        <member name="T:User_Api.Controllers.VoteController">
+            <summary>
+            测试获取数据
+            </summary>
+        </member>
+        <member name="M:User_Api.Controllers.VoteController.get">
+            <summary>
+            测试数据库连接
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

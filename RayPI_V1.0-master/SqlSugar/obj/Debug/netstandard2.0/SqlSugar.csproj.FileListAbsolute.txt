@@ -1,0 +1,18 @@
+D:\MyProjects\RayPI\SqlSugar\bin\Debug\netstandard2.0\SqlSugar.deps.json
+D:\MyProjects\RayPI\SqlSugar\bin\Debug\netstandard2.0\SqlSugar.dll
+D:\MyProjects\RayPI\SqlSugar\bin\Debug\netstandard2.0\SqlSugar.pdb
+D:\MyProjects\RayPI\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.csprojAssemblyReference.cache
+D:\MyProjects\RayPI\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.csproj.CoreCompileInputs.cache
+D:\MyProjects\RayPI\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.AssemblyInfoInputs.cache
+D:\MyProjects\RayPI\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.AssemblyInfo.cs
+D:\MyProjects\RayPI\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.dll
+D:\MyProjects\RayPI\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.pdb
+D:\Test Program\C#\RayPI_V1.0-master\SqlSugar\bin\Debug\netstandard2.0\SqlSugar.deps.json
+D:\Test Program\C#\RayPI_V1.0-master\SqlSugar\bin\Debug\netstandard2.0\SqlSugar.dll
+D:\Test Program\C#\RayPI_V1.0-master\SqlSugar\bin\Debug\netstandard2.0\SqlSugar.pdb
+D:\Test Program\C#\RayPI_V1.0-master\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.csprojAssemblyReference.cache
+D:\Test Program\C#\RayPI_V1.0-master\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.AssemblyInfoInputs.cache
+D:\Test Program\C#\RayPI_V1.0-master\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.AssemblyInfo.cs
+D:\Test Program\C#\RayPI_V1.0-master\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.csproj.CoreCompileInputs.cache
+D:\Test Program\C#\RayPI_V1.0-master\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.dll
+D:\Test Program\C#\RayPI_V1.0-master\SqlSugar\obj\Debug\netstandard2.0\SqlSugar.pdb

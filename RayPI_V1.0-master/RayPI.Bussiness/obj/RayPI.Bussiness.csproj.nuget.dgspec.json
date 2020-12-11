@@ -1,0 +1,428 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Bussiness\\RayPI.Bussiness.csproj": {}
+  },
+  "projects": {
+    "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Bussiness\\RayPI.Bussiness.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Bussiness\\RayPI.Bussiness.csproj",
+        "projectName": "RayPI.Bussiness",
+        "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Bussiness\\RayPI.Bussiness.csproj",
+        "packagesPath": "C:\\Users\\7000020126\\.nuget\\packages\\",
+        "outputPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Bussiness\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\7000020126\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.IService\\RayPI.IService.csproj": {
+                "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.IService\\RayPI.IService.csproj"
+              },
+              "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Service\\RayPI.Service.csproj": {
+                "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Service\\RayPI.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Entity\\RayPI.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Entity\\RayPI.Entity.csproj",
+        "projectName": "RayPI.Entity",
+        "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Entity\\RayPI.Entity.csproj",
+        "packagesPath": "C:\\Users\\7000020126\\.nuget\\packages\\",
+        "outputPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\7000020126\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Test Program\\C#\\RayPI_V1.0-master\\SqlSugar\\SqlSugar.csproj": {
+                "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\SqlSugar\\SqlSugar.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.IService\\RayPI.IService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.IService\\RayPI.IService.csproj",
+        "projectName": "RayPI.IService",
+        "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.IService\\RayPI.IService.csproj",
+        "packagesPath": "C:\\Users\\7000020126\\.nuget\\packages\\",
+        "outputPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.IService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\7000020126\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Entity\\RayPI.Entity.csproj": {
+                "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Entity\\RayPI.Entity.csproj"
+              },
+              "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Model\\RayPI.Model.csproj": {
+                "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Model\\RayPI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Model\\RayPI.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Model\\RayPI.Model.csproj",
+        "projectName": "RayPI.Model",
+        "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Model\\RayPI.Model.csproj",
+        "packagesPath": "C:\\Users\\7000020126\\.nuget\\packages\\",
+        "outputPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\7000020126\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Test Program\\C#\\RayPI_V1.0-master\\SqlSugar\\SqlSugar.csproj": {
+                "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\SqlSugar\\SqlSugar.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Service\\RayPI.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Service\\RayPI.Service.csproj",
+        "projectName": "RayPI.Service",
+        "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Service\\RayPI.Service.csproj",
+        "packagesPath": "C:\\Users\\7000020126\\.nuget\\packages\\",
+        "outputPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\7000020126\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {
+              "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Entity\\RayPI.Entity.csproj": {
+                "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Entity\\RayPI.Entity.csproj"
+              },
+              "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.IService\\RayPI.IService.csproj": {
+                "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.IService\\RayPI.IService.csproj"
+              },
+              "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Model\\RayPI.Model.csproj": {
+                "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\RayPI.Model\\RayPI.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Test Program\\C#\\RayPI_V1.0-master\\SqlSugar\\SqlSugar.csproj": {
+      "version": "4.6.4.9",
+      "restore": {
+        "projectUniqueName": "D:\\Test Program\\C#\\RayPI_V1.0-master\\SqlSugar\\SqlSugar.csproj",
+        "projectName": "SqlSugar",
+        "projectPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\SqlSugar\\SqlSugar.csproj",
+        "packagesPath": "C:\\Users\\7000020126\\.nuget\\packages\\",
+        "outputPath": "D:\\Test Program\\C#\\RayPI_V1.0-master\\SqlSugar\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\7000020126\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[6.10.4, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            },
+            "Oracle.ManagedDataAccess.Core": {
+              "target": "Package",
+              "version": "[2.12.0-beta2, )"
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "System.Reflection.Emit.Lightweight": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

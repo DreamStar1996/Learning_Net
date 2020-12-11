@@ -1,0 +1,24 @@
+D:\MyProjects\RayPI\RayPI.Model\bin\Debug\netcoreapp2.0\RayPI.Model.deps.json
+D:\MyProjects\RayPI\RayPI.Model\bin\Debug\netcoreapp2.0\RayPI.Model.dll
+D:\MyProjects\RayPI\RayPI.Model\bin\Debug\netcoreapp2.0\RayPI.Model.pdb
+D:\MyProjects\RayPI\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.csprojAssemblyReference.cache
+D:\MyProjects\RayPI\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.csproj.CoreCompileInputs.cache
+D:\MyProjects\RayPI\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.AssemblyInfoInputs.cache
+D:\MyProjects\RayPI\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.AssemblyInfo.cs
+D:\MyProjects\RayPI\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.dll
+D:\MyProjects\RayPI\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.pdb
+D:\MyProjects\RayPI\RayPI.Model\bin\Debug\netcoreapp2.0\SqlSugar.dll
+D:\MyProjects\RayPI\RayPI.Model\bin\Debug\netcoreapp2.0\SqlSugar.pdb
+D:\MyProjects\RayPI\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.csproj.CopyComplete
+D:\Test Program\C#\RayPI_V1.0-master\RayPI.Model\bin\Debug\netcoreapp2.0\RayPI.Model.deps.json
+D:\Test Program\C#\RayPI_V1.0-master\RayPI.Model\bin\Debug\netcoreapp2.0\RayPI.Model.dll
+D:\Test Program\C#\RayPI_V1.0-master\RayPI.Model\bin\Debug\netcoreapp2.0\RayPI.Model.pdb
+D:\Test Program\C#\RayPI_V1.0-master\RayPI.Model\bin\Debug\netcoreapp2.0\SqlSugar.dll
+D:\Test Program\C#\RayPI_V1.0-master\RayPI.Model\bin\Debug\netcoreapp2.0\SqlSugar.pdb
+D:\Test Program\C#\RayPI_V1.0-master\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.csprojAssemblyReference.cache
+D:\Test Program\C#\RayPI_V1.0-master\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.AssemblyInfoInputs.cache
+D:\Test Program\C#\RayPI_V1.0-master\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.AssemblyInfo.cs
+D:\Test Program\C#\RayPI_V1.0-master\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.csproj.CoreCompileInputs.cache
+D:\Test Program\C#\RayPI_V1.0-master\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.csproj.CopyComplete
+D:\Test Program\C#\RayPI_V1.0-master\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.dll
+D:\Test Program\C#\RayPI_V1.0-master\RayPI.Model\obj\Debug\netcoreapp2.0\RayPI.Model.pdb
